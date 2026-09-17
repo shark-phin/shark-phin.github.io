@@ -13,9 +13,9 @@ Master's student in Computer Science and Technology, Shanghai Jiao Tong Universi
 
 ## 🎓 Education
 
-- **2026 – Present.** M.Sc. in Computer Science and Technology, Shanghai Jiao Tong University (SJTU).
-- **2022 – 2026.** B.Comp. in Computing (Computer Science), National University of Singapore (NUS).
+- **2026 Autumn – Present.** M.Sc. in Computer Science and Technology, Shanghai Jiao Tong University (SJTU).
+- **2022 Autumn – 2026 Summer.** B.Comp. in Computing (Computer Science), National University of Singapore (NUS).
 
 ## 🏆 Achievements
-- *2026.* Graduated with First-Class Honours (Highest Honours).
+- *2026.* Graduated from NUS with First-Class Honours (Highest Honours).
 - *2023.* Honour List of Student Tutors for Excellence in Teaching - NUS.
